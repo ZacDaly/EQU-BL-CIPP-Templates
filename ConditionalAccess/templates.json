@@ -1,7 +1,7 @@
 {
   "ConditionalAccess": [
     {
-      "displayName": "EQU BL CA 001 Require Compliant Device",
+      "displayName": "EQU BL CA 001 Require Compliant Device TEST",
       "file": "ConditionalAccess/CA_EQU_BL_CA_001_Require_Compliant_Device_TEST.json"
     },
     {
