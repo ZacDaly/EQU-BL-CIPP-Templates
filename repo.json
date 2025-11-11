@@ -1,0 +1,5 @@
+{
+  "name": "EQU-BL Conditional Access Templates",
+  "type": "ConditionalAccess",
+  "description": "Baseline Conditional Access Policies for Equasys tenants managed through CIPP."
+}
